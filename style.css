@@ -1591,11 +1591,11 @@ ul {
   }
 
   .resume-panel {
-    display: none !important;
+    display: none;
   }
 
   .resume-panel:not(.resume-hidden) {
-    display: block !important;
+    display: block;
   }
 
   .timeline-heading {
